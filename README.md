@@ -5,3 +5,14 @@ Machine learning algorithms are an integral part of almost all modern applicatio
 The Machine Learning Workshop, Second Edition, begins by demonstrating how unsupervised and supervised learning algorithms work by analyzing a real-world dataset of wholesale customers. Once you've got to grips with the basics, you'll develop an artificial neural network using scikit-learn and then improve its performance by fine-tuning hyperparameters. Towards the end of the workshop, you'll study the dataset of a bank's marketing activities and build machine learning models that can list clients who are likely to subscribe to a term deposit. You'll also learn how to compare these models and select the optimal one.
 
 By the end of The Machine Learning Workshop, Second Edition, you'll not only have learned the difference between supervised and unsupervised models and their applications in the real world, but you'll also have developed the skills required to get started with programming your very own machine learning algorithms.
+
+# Stages for building a machine learing program
+
+# step :1   PREPARATION 
+DATA EXPLORATION -------> DATA PREPROCESSING ---------> DATA SPLITTING 
+
+# step :2 CREATION 
+ALGORITHM SELECTION -----> MODEL TREINING --------> MODEL EVALUATION ---------> COMPARISON & SELECTION 
+
+# step :3  INTERACTION
+STORING THE MODEL --------> LOADING THE MODEL ---------> INTERCTING WITH THE MODEL
